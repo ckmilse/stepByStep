@@ -14,7 +14,7 @@
     webpack,--略有涉猎
     browserify --听过，用过，但未实践集成
     
-    其他工具： charles抓包，ps切图
+    其他工具： charles抓包，ps切图，当然还有git啦
     
     
   2>框架掌握
