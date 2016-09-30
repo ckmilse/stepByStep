@@ -18,6 +18,7 @@
 
 
   2>框架掌握
+
       angular基本，以及ionic ----可熟练使用
 
       angular2--没实践
